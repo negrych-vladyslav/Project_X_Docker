@@ -1,0 +1,481 @@
+2022/08/28 09:15:56 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:15:57 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:15:58 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:15:59 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:16:00 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:16:02 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:16:06 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:16:13 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:16:26 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:16:52 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:17:44 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:18:44 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:19:45 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:20:45 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:21:46 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:22:46 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:23:47 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:24:47 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:25:48 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:26:00 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:26:01 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:26:02 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:26:02 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:26:04 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:26:06 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:26:09 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:26:16 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:26:30 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:26:56 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:27:47 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:28:48 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:29:48 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:30:49 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:31:49 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:32:50 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:33:50 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:34:51 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:35:51 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:36:52 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:37:52 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:38:52 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:39:53 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:40:53 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:41:54 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:42:54 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:43:55 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:44:55 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:45:56 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:46:56 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:47:57 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:48:57 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:49:58 [emerg] 1#1: open() "/var/log/ngin/docker-access.log" failed (2: No such file or directory)
+2022/08/28 09:50:59 [emerg] 1#1: open() "/var/log/ngin/access.log" failed (2: No such file or directory)
+2022/08/28 09:51:59 [emerg] 1#1: open() "/var/log/ngin/access.log" failed (2: No such file or directory)
+2022/08/28 09:53:00 [emerg] 1#1: open() "/var/log/ngin/access.log" failed (2: No such file or directory)
+2022/08/28 09:54:16 [emerg] 1#1: open() "/var/log/ngin/access.log" failed (2: No such file or directory)
+2022/08/28 09:54:16 [emerg] 1#1: open() "/var/log/ngin/access.log" failed (2: No such file or directory)
+2022/08/28 09:54:17 [emerg] 1#1: open() "/var/log/ngin/access.log" failed (2: No such file or directory)
+2022/08/28 09:54:18 [emerg] 1#1: open() "/var/log/ngin/access.log" failed (2: No such file or directory)
+2022/08/28 09:54:19 [emerg] 1#1: open() "/var/log/ngin/access.log" failed (2: No such file or directory)
+2022/08/28 09:54:21 [emerg] 1#1: open() "/var/log/ngin/access.log" failed (2: No such file or directory)
+2022/08/28 09:54:25 [emerg] 1#1: open() "/var/log/ngin/access.log" failed (2: No such file or directory)
+2022/08/28 09:54:32 [emerg] 1#1: open() "/var/log/ngin/access.log" failed (2: No such file or directory)
+2022/08/28 09:54:45 [emerg] 1#1: open() "/var/log/ngin/access.log" failed (2: No such file or directory)
+2022/08/28 09:55:11 [emerg] 1#1: open() "/var/log/ngin/access.log" failed (2: No such file or directory)
+2022/08/28 09:56:03 [emerg] 1#1: open() "/var/log/ngin/access.log" failed (2: No such file or directory)
+2022/08/28 09:56:25 [notice] 1#1: using the "epoll" event method
+2022/08/28 09:56:25 [notice] 1#1: nginx/1.23.1
+2022/08/28 09:56:25 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/28 09:56:25 [notice] 1#1: OS: Linux 5.15.0-46-generic
+2022/08/28 09:56:25 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/28 09:56:25 [notice] 1#1: start worker processes
+2022/08/28 09:56:25 [notice] 1#1: start worker process 22
+2022/08/28 09:56:25 [notice] 1#1: start worker process 23
+2022/08/28 09:56:25 [notice] 1#1: start worker process 24
+2022/08/28 09:56:25 [notice] 1#1: start worker process 25
+2022/08/28 09:57:54 [error] 22#22: *1 upstream timed out (110: Connection timed out) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.2:9000", host: "192.168.43.167"
+2022/08/28 09:58:55 [error] 22#22: *1 upstream timed out (110: Connection timed out) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.17.0.2:9000", host: "192.168.43.167", referrer: "http://192.168.43.167/"
+2022/08/28 10:04:55 [error] 24#24: *6 upstream timed out (110: Connection timed out) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.2:9000", host: "192.168.43.167"
+2022/08/28 10:05:11 [error] 25#25: *8 upstream timed out (110: Connection timed out) while connecting to upstream, client: 172.17.0.1, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.2:9000", host: "localhost"
+2022/08/28 10:08:55 [error] 22#22: *11 upstream timed out (110: Connection timed out) while connecting to upstream, client: 172.17.0.1, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.2:9000", host: "172.17.0.1"
+2022/08/28 10:09:56 [error] 22#22: *11 upstream timed out (110: Connection timed out) while connecting to upstream, client: 172.17.0.1, server: _, request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://172.17.0.2:9000", host: "172.17.0.1", referrer: "http://172.17.0.1/"
+2022/08/28 10:15:07 [error] 22#22: *14 upstream timed out (110: Connection timed out) while connecting to upstream, client: 172.17.0.1, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.2:9000", host: "172.17.0.1"
+2022/08/28 10:18:07 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/08/28 10:18:07 [notice] 22#22: gracefully shutting down
+2022/08/28 10:18:07 [notice] 24#24: gracefully shutting down
+2022/08/28 10:18:07 [notice] 23#23: gracefully shutting down
+2022/08/28 10:18:07 [notice] 25#25: gracefully shutting down
+2022/08/28 10:18:07 [notice] 22#22: exiting
+2022/08/28 10:18:07 [notice] 24#24: exiting
+2022/08/28 10:18:07 [notice] 23#23: exiting
+2022/08/28 10:18:07 [notice] 25#25: exiting
+2022/08/28 10:18:07 [notice] 24#24: exit
+2022/08/28 10:18:07 [notice] 22#22: exit
+2022/08/28 10:18:07 [notice] 23#23: exit
+2022/08/28 10:18:07 [notice] 25#25: exit
+2022/08/28 10:18:07 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/08/28 10:18:07 [notice] 1#1: worker process 23 exited with code 0
+2022/08/28 10:18:07 [notice] 1#1: worker process 24 exited with code 0
+2022/08/28 10:18:07 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 10:18:07 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/08/28 10:18:07 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/08/28 10:18:07 [notice] 1#1: worker process 22 exited with code 0
+2022/08/28 10:18:07 [notice] 1#1: worker process 25 exited with code 0
+2022/08/28 10:18:07 [notice] 1#1: exit
+2022/08/28 10:18:41 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:18:41 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:18:42 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:18:43 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:18:44 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:18:46 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:18:50 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:18:57 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:19:10 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:20:15 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:20:16 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:20:17 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:20:17 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:20:19 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:20:21 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:20:24 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:20:31 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:20:45 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:21:11 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wordpress.conf:11
+2022/08/28 10:22:03 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:23:03 [emerg] 1#1: invalid parameter "80" in /etc/nginx/conf.d/wordpress.conf:3
+2022/08/28 10:24:04 [emerg] 1#1: a duplicate default server for 0.0.0.0:80 in /etc/nginx/conf.d/wp.conf:2
+2022/08/28 10:25:04 [emerg] 1#1: a duplicate default server for 0.0.0.0:80 in /etc/nginx/conf.d/wp.conf:2
+2022/08/28 10:25:27 [emerg] 1#1: a duplicate default server for 0.0.0.0:80 in /etc/nginx/conf.d/wp.conf:2
+2022/08/28 10:25:28 [emerg] 1#1: a duplicate default server for 0.0.0.0:80 in /etc/nginx/conf.d/wp.conf:2
+2022/08/28 10:25:29 [emerg] 1#1: a duplicate default server for 0.0.0.0:80 in /etc/nginx/conf.d/wp.conf:2
+2022/08/28 10:25:30 [emerg] 1#1: a duplicate default server for 0.0.0.0:80 in /etc/nginx/conf.d/wp.conf:2
+2022/08/28 10:25:31 [emerg] 1#1: a duplicate default server for 0.0.0.0:80 in /etc/nginx/conf.d/wp.conf:2
+2022/08/28 10:25:33 [emerg] 1#1: a duplicate default server for 0.0.0.0:80 in /etc/nginx/conf.d/wp.conf:2
+2022/08/28 10:25:37 [emerg] 1#1: a duplicate default server for 0.0.0.0:80 in /etc/nginx/conf.d/wp.conf:2
+2022/08/28 10:25:43 [emerg] 1#1: a duplicate default server for 0.0.0.0:80 in /etc/nginx/conf.d/wp.conf:2
+2022/08/28 10:27:02 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:27:03 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:27:04 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:27:04 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:27:06 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:27:08 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:27:11 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:27:18 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:27:32 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:27:58 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:28:19 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:28:19 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:28:20 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:28:21 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:28:22 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:28:24 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:28:28 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:28:35 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:28:48 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:29:14 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:30:06 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:31:06 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:34:38 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:34:38 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:34:39 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:34:40 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:34:41 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:34:43 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:34:47 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:34:54 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:35:07 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:35:33 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:36:22 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:36:22 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:36:23 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:36:24 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:36:25 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:36:27 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:36:31 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:36:37 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:36:51 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:37:17 [emerg] 1#1: open() "/etc/nginx/snippets/fastcgi-php.conf" failed (2: No such file or directory) in /etc/nginx/conf.d/wp.conf:11
+2022/08/28 10:38:08 [notice] 1#1: using the "epoll" event method
+2022/08/28 10:38:08 [notice] 1#1: nginx/1.23.1
+2022/08/28 10:38:08 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/28 10:38:08 [notice] 1#1: OS: Linux 5.15.0-46-generic
+2022/08/28 10:38:08 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/28 10:38:08 [notice] 1#1: start worker processes
+2022/08/28 10:38:08 [notice] 1#1: start worker process 22
+2022/08/28 10:38:08 [notice] 1#1: start worker process 23
+2022/08/28 10:38:08 [notice] 1#1: start worker process 24
+2022/08/28 10:38:08 [notice] 1#1: start worker process 25
+2022/08/28 10:38:47 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/08/28 10:38:47 [notice] 22#22: gracefully shutting down
+2022/08/28 10:38:47 [notice] 23#23: gracefully shutting down
+2022/08/28 10:38:47 [notice] 24#24: gracefully shutting down
+2022/08/28 10:38:47 [notice] 25#25: gracefully shutting down
+2022/08/28 10:38:47 [notice] 22#22: exiting
+2022/08/28 10:38:47 [notice] 23#23: exiting
+2022/08/28 10:38:47 [notice] 24#24: exiting
+2022/08/28 10:38:47 [notice] 25#25: exiting
+2022/08/28 10:38:47 [notice] 24#24: exit
+2022/08/28 10:38:47 [notice] 23#23: exit
+2022/08/28 10:38:47 [notice] 22#22: exit
+2022/08/28 10:38:47 [notice] 25#25: exit
+2022/08/28 10:38:47 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/08/28 10:38:47 [notice] 1#1: worker process 24 exited with code 0
+2022/08/28 10:38:47 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 10:38:47 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/08/28 10:38:47 [notice] 1#1: worker process 22 exited with code 0
+2022/08/28 10:38:47 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 10:38:47 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/08/28 10:38:47 [notice] 1#1: worker process 23 exited with code 0
+2022/08/28 10:38:47 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 10:38:47 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/08/28 10:38:47 [notice] 1#1: worker process 25 exited with code 0
+2022/08/28 10:38:47 [notice] 1#1: exit
+2022/08/28 10:38:58 [notice] 1#1: using the "epoll" event method
+2022/08/28 10:38:58 [notice] 1#1: nginx/1.23.1
+2022/08/28 10:38:58 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/28 10:38:58 [notice] 1#1: OS: Linux 5.15.0-46-generic
+2022/08/28 10:38:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/28 10:38:58 [notice] 1#1: start worker processes
+2022/08/28 10:38:58 [notice] 1#1: start worker process 22
+2022/08/28 10:38:58 [notice] 1#1: start worker process 23
+2022/08/28 10:38:58 [notice] 1#1: start worker process 24
+2022/08/28 10:38:58 [notice] 1#1: start worker process 25
+2022/08/28 10:40:16 [error] 22#22: *1 upstream timed out (110: Connection timed out) while connecting to upstream, client: 172.17.0.1, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.2:9000", host: "172.17.0.1"
+2022/08/28 10:40:34 [error] 23#23: *3 upstream timed out (110: Connection timed out) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.2:9000", host: "192.168.43.167"
+2022/08/28 13:46:12 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/08/28 13:46:12 [notice] 23#23: gracefully shutting down
+2022/08/28 13:46:12 [notice] 22#22: gracefully shutting down
+2022/08/28 13:46:12 [notice] 24#24: gracefully shutting down
+2022/08/28 13:46:12 [notice] 23#23: exiting
+2022/08/28 13:46:12 [notice] 22#22: exiting
+2022/08/28 13:46:12 [notice] 24#24: exiting
+2022/08/28 13:46:12 [notice] 25#25: gracefully shutting down
+2022/08/28 13:46:12 [notice] 25#25: exiting
+2022/08/28 13:46:12 [notice] 25#25: exit
+2022/08/28 13:46:12 [notice] 24#24: exit
+2022/08/28 13:46:12 [notice] 22#22: exit
+2022/08/28 13:46:12 [notice] 23#23: exit
+2022/08/28 13:46:12 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/08/28 13:46:12 [notice] 1#1: worker process 22 exited with code 0
+2022/08/28 13:46:12 [notice] 1#1: worker process 25 exited with code 0
+2022/08/28 13:46:12 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 13:46:12 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/08/28 13:46:12 [notice] 1#1: worker process 24 exited with code 0
+2022/08/28 13:46:12 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 13:46:12 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/08/28 13:46:12 [notice] 1#1: worker process 23 exited with code 0
+2022/08/28 13:46:12 [notice] 1#1: exit
+2022/08/28 13:46:25 [emerg] 1#1: "fastcgi_pass" directive is duplicate in /etc/nginx/conf.d/wordpress.conf:25
+2022/08/28 13:46:25 [emerg] 1#1: "fastcgi_pass" directive is duplicate in /etc/nginx/conf.d/wordpress.conf:25
+2022/08/28 13:46:26 [emerg] 1#1: "fastcgi_pass" directive is duplicate in /etc/nginx/conf.d/wordpress.conf:25
+2022/08/28 13:46:27 [emerg] 1#1: "fastcgi_pass" directive is duplicate in /etc/nginx/conf.d/wordpress.conf:25
+2022/08/28 13:46:28 [emerg] 1#1: "fastcgi_pass" directive is duplicate in /etc/nginx/conf.d/wordpress.conf:25
+2022/08/28 13:46:30 [emerg] 1#1: "fastcgi_pass" directive is duplicate in /etc/nginx/conf.d/wordpress.conf:25
+2022/08/28 13:46:34 [emerg] 1#1: "fastcgi_pass" directive is duplicate in /etc/nginx/conf.d/wordpress.conf:25
+2022/08/28 13:46:41 [emerg] 1#1: "fastcgi_pass" directive is duplicate in /etc/nginx/conf.d/wordpress.conf:25
+2022/08/28 13:46:54 [emerg] 1#1: "fastcgi_pass" directive is duplicate in /etc/nginx/conf.d/wordpress.conf:25
+2022/08/28 13:48:07 [notice] 1#1: using the "epoll" event method
+2022/08/28 13:48:07 [notice] 1#1: nginx/1.23.1
+2022/08/28 13:48:07 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/28 13:48:07 [notice] 1#1: OS: Linux 5.15.0-46-generic
+2022/08/28 13:48:07 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/28 13:48:07 [notice] 1#1: start worker processes
+2022/08/28 13:48:07 [notice] 1#1: start worker process 22
+2022/08/28 13:48:07 [notice] 1#1: start worker process 23
+2022/08/28 13:48:07 [notice] 1#1: start worker process 24
+2022/08/28 13:48:07 [notice] 1#1: start worker process 25
+2022/08/28 13:49:06 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:08 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:09 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:10 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:11 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:11 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:12 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:13 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:13 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:14 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:15 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:16 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:16 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:17 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:18 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:19 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:19 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:20 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:21 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:22 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:22 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:23 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:24 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:24 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:25 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:26 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:26 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:49:27 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:50:23 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:50:24 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:50:24 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:50:30 [crit] 22#22: *1 connect() to unix:/var/run/php/php7.4-fpm.sock failed (2: No such file or directory) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET /wp-admin/ HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "192.168.43.167"
+2022/08/28 13:51:34 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/08/28 13:51:34 [notice] 22#22: gracefully shutting down
+2022/08/28 13:51:34 [notice] 23#23: gracefully shutting down
+2022/08/28 13:51:34 [notice] 25#25: gracefully shutting down
+2022/08/28 13:51:34 [notice] 23#23: exiting
+2022/08/28 13:51:34 [notice] 25#25: exiting
+2022/08/28 13:51:34 [notice] 22#22: exiting
+2022/08/28 13:51:34 [notice] 25#25: exit
+2022/08/28 13:51:34 [notice] 23#23: exit
+2022/08/28 13:51:34 [notice] 22#22: exit
+2022/08/28 13:51:34 [notice] 24#24: gracefully shutting down
+2022/08/28 13:51:34 [notice] 24#24: exiting
+2022/08/28 13:51:34 [notice] 24#24: exit
+2022/08/28 13:51:35 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/08/28 13:51:35 [notice] 1#1: worker process 22 exited with code 0
+2022/08/28 13:51:35 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 13:51:35 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/08/28 13:51:35 [notice] 1#1: worker process 23 exited with code 0
+2022/08/28 13:51:35 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 13:51:35 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/08/28 13:51:35 [notice] 1#1: worker process 24 exited with code 0
+2022/08/28 13:51:35 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 13:51:35 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/08/28 13:51:35 [notice] 1#1: worker process 25 exited with code 0
+2022/08/28 13:51:35 [notice] 1#1: exit
+2022/08/28 13:51:42 [emerg] 1#1: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/wordpress.conf:24
+2022/08/28 13:51:43 [emerg] 1#1: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/wordpress.conf:24
+2022/08/28 13:51:44 [emerg] 1#1: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/wordpress.conf:24
+2022/08/28 13:51:44 [emerg] 1#1: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/wordpress.conf:24
+2022/08/28 13:51:46 [emerg] 1#1: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/wordpress.conf:24
+2022/08/28 13:51:48 [emerg] 1#1: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/wordpress.conf:24
+2022/08/28 13:51:51 [emerg] 1#1: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/wordpress.conf:24
+2022/08/28 13:51:58 [emerg] 1#1: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/wordpress.conf:24
+2022/08/28 13:52:12 [emerg] 1#1: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/wordpress.conf:24
+2022/08/28 13:52:38 [emerg] 1#1: invalid number of arguments in "fastcgi_pass" directive in /etc/nginx/conf.d/wordpress.conf:24
+2022/08/28 13:54:05 [notice] 1#1: using the "epoll" event method
+2022/08/28 13:54:05 [notice] 1#1: nginx/1.23.1
+2022/08/28 13:54:05 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/28 13:54:05 [notice] 1#1: OS: Linux 5.15.0-46-generic
+2022/08/28 13:54:05 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/28 13:54:05 [notice] 1#1: start worker processes
+2022/08/28 13:54:05 [notice] 1#1: start worker process 22
+2022/08/28 13:54:05 [notice] 1#1: start worker process 23
+2022/08/28 13:54:05 [notice] 1#1: start worker process 24
+2022/08/28 13:54:05 [notice] 1#1: start worker process 25
+2022/08/28 13:55:16 [error] 22#22: *1 upstream timed out (110: Connection timed out) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET / HTTP/1.1", upstream: "fastcgi://172.17.0.2:9000", host: "192.168.43.167"
+2022/08/28 13:56:24 [error] 22#22: *1 upstream timed out (110: Connection timed out) while connecting to upstream, client: 192.168.43.167, server: _, request: "GET /wp-admin/ HTTP/1.1", upstream: "fastcgi://172.17.0.2:9000", host: "192.168.43.167"
+2022/08/28 14:57:11 [notice] 1#1: using the "epoll" event method
+2022/08/28 14:57:11 [notice] 1#1: nginx/1.23.1
+2022/08/28 14:57:11 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/28 14:57:11 [notice] 1#1: OS: Linux 5.15.0-46-generic
+2022/08/28 14:57:11 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/28 14:57:11 [notice] 1#1: start worker processes
+2022/08/28 14:57:11 [notice] 1#1: start worker process 22
+2022/08/28 14:57:11 [notice] 1#1: start worker process 23
+2022/08/28 14:57:11 [notice] 1#1: start worker process 24
+2022/08/28 14:57:11 [notice] 1#1: start worker process 25
+2022/08/28 15:12:51 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/08/28 15:12:51 [notice] 23#23: gracefully shutting down
+2022/08/28 15:12:51 [notice] 24#24: gracefully shutting down
+2022/08/28 15:12:51 [notice] 22#22: gracefully shutting down
+2022/08/28 15:12:51 [notice] 25#25: gracefully shutting down
+2022/08/28 15:12:51 [notice] 24#24: exiting
+2022/08/28 15:12:51 [notice] 22#22: exiting
+2022/08/28 15:12:51 [notice] 25#25: exiting
+2022/08/28 15:12:51 [notice] 23#23: exiting
+2022/08/28 15:12:51 [notice] 22#22: exit
+2022/08/28 15:12:51 [notice] 24#24: exit
+2022/08/28 15:12:51 [notice] 23#23: exit
+2022/08/28 15:12:51 [notice] 25#25: exit
+2022/08/28 15:12:51 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/08/28 15:12:51 [notice] 1#1: worker process 23 exited with code 0
+2022/08/28 15:12:51 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 15:12:51 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/08/28 15:12:51 [notice] 1#1: worker process 22 exited with code 0
+2022/08/28 15:12:51 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 15:12:51 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/08/28 15:12:51 [notice] 1#1: worker process 25 exited with code 0
+2022/08/28 15:12:51 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 15:12:51 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/08/28 15:12:51 [notice] 1#1: worker process 24 exited with code 0
+2022/08/28 15:12:51 [notice] 1#1: exit
+2022/08/28 15:13:07 [notice] 1#1: using the "epoll" event method
+2022/08/28 15:13:07 [notice] 1#1: nginx/1.23.1
+2022/08/28 15:13:07 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/28 15:13:07 [notice] 1#1: OS: Linux 5.15.0-46-generic
+2022/08/28 15:13:07 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/28 15:13:07 [notice] 1#1: start worker processes
+2022/08/28 15:13:07 [notice] 1#1: start worker process 22
+2022/08/28 15:13:07 [notice] 1#1: start worker process 23
+2022/08/28 15:13:07 [notice] 1#1: start worker process 24
+2022/08/28 15:13:07 [notice] 1#1: start worker process 25
+2022/08/28 15:14:46 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/08/28 15:14:46 [notice] 22#22: gracefully shutting down
+2022/08/28 15:14:46 [notice] 23#23: gracefully shutting down
+2022/08/28 15:14:46 [notice] 24#24: gracefully shutting down
+2022/08/28 15:14:46 [notice] 22#22: exiting
+2022/08/28 15:14:46 [notice] 24#24: exiting
+2022/08/28 15:14:46 [notice] 22#22: exit
+2022/08/28 15:14:46 [notice] 24#24: exit
+2022/08/28 15:14:46 [notice] 23#23: exiting
+2022/08/28 15:14:46 [notice] 23#23: exit
+2022/08/28 15:14:46 [notice] 25#25: gracefully shutting down
+2022/08/28 15:14:46 [notice] 25#25: exiting
+2022/08/28 15:14:46 [notice] 25#25: exit
+2022/08/28 15:14:46 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/08/28 15:14:46 [notice] 1#1: worker process 22 exited with code 0
+2022/08/28 15:14:46 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 15:14:46 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/08/28 15:14:46 [notice] 1#1: worker process 25 exited with code 0
+2022/08/28 15:14:46 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 15:14:46 [notice] 1#1: signal 17 (SIGCHLD) received from 24
+2022/08/28 15:14:46 [notice] 1#1: worker process 24 exited with code 0
+2022/08/28 15:14:46 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 15:14:46 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/08/28 15:14:46 [notice] 1#1: worker process 23 exited with code 0
+2022/08/28 15:14:46 [notice] 1#1: exit
+2022/08/28 15:14:58 [notice] 1#1: using the "epoll" event method
+2022/08/28 15:14:58 [notice] 1#1: nginx/1.23.1
+2022/08/28 15:14:58 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/28 15:14:58 [notice] 1#1: OS: Linux 5.15.0-46-generic
+2022/08/28 15:14:58 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/28 15:14:58 [notice] 1#1: start worker processes
+2022/08/28 15:14:58 [notice] 1#1: start worker process 22
+2022/08/28 15:14:58 [notice] 1#1: start worker process 23
+2022/08/28 15:14:58 [notice] 1#1: start worker process 24
+2022/08/28 15:14:58 [notice] 1#1: start worker process 25
+2022/08/28 18:37:26 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/08/28 18:37:26 [notice] 22#22: gracefully shutting down
+2022/08/28 18:37:26 [notice] 23#23: gracefully shutting down
+2022/08/28 18:37:26 [notice] 24#24: gracefully shutting down
+2022/08/28 18:37:26 [notice] 22#22: exiting
+2022/08/28 18:37:26 [notice] 23#23: exiting
+2022/08/28 18:37:26 [notice] 24#24: exiting
+2022/08/28 18:37:26 [notice] 25#25: gracefully shutting down
+2022/08/28 18:37:26 [notice] 25#25: exiting
+2022/08/28 18:37:26 [notice] 22#22: exit
+2022/08/28 18:37:26 [notice] 24#24: exit
+2022/08/28 18:37:26 [notice] 23#23: exit
+2022/08/28 18:37:26 [notice] 25#25: exit
+2022/08/28 18:37:26 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/08/28 18:37:26 [notice] 1#1: worker process 23 exited with code 0
+2022/08/28 18:37:26 [notice] 1#1: worker process 24 exited with code 0
+2022/08/28 18:37:26 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 18:37:26 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/08/28 18:37:26 [notice] 1#1: worker process 25 exited with code 0
+2022/08/28 18:37:26 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 18:37:26 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/08/28 18:37:26 [notice] 1#1: worker process 22 exited with code 0
+2022/08/28 18:37:26 [notice] 1#1: exit
+2022/08/28 18:37:56 [notice] 1#1: using the "epoll" event method
+2022/08/28 18:37:56 [notice] 1#1: nginx/1.23.1
+2022/08/28 18:37:56 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/08/28 18:37:56 [notice] 1#1: OS: Linux 5.15.0-46-generic
+2022/08/28 18:37:56 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/08/28 18:37:56 [notice] 1#1: start worker processes
+2022/08/28 18:37:56 [notice] 1#1: start worker process 22
+2022/08/28 18:37:56 [notice] 1#1: start worker process 23
+2022/08/28 18:37:56 [notice] 1#1: start worker process 24
+2022/08/28 18:37:56 [notice] 1#1: start worker process 25
+2022/08/28 18:41:31 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/08/28 18:41:31 [notice] 22#22: gracefully shutting down
+2022/08/28 18:41:31 [notice] 23#23: gracefully shutting down
+2022/08/28 18:41:31 [notice] 24#24: gracefully shutting down
+2022/08/28 18:41:31 [notice] 22#22: exiting
+2022/08/28 18:41:31 [notice] 23#23: exiting
+2022/08/28 18:41:31 [notice] 24#24: exiting
+2022/08/28 18:41:31 [notice] 22#22: exit
+2022/08/28 18:41:31 [notice] 23#23: exit
+2022/08/28 18:41:31 [notice] 24#24: exit
+2022/08/28 18:41:31 [notice] 25#25: gracefully shutting down
+2022/08/28 18:41:31 [notice] 25#25: exiting
+2022/08/28 18:41:31 [notice] 25#25: exit
+2022/08/28 18:41:31 [notice] 1#1: signal 17 (SIGCHLD) received from 23
+2022/08/28 18:41:31 [notice] 1#1: worker process 23 exited with code 0
+2022/08/28 18:41:31 [notice] 1#1: worker process 22 exited with code 0
+2022/08/28 18:41:31 [notice] 1#1: worker process 24 exited with code 0
+2022/08/28 18:41:31 [notice] 1#1: signal 29 (SIGIO) received
+2022/08/28 18:41:31 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/08/28 18:41:31 [notice] 1#1: signal 17 (SIGCHLD) received from 25
+2022/08/28 18:41:31 [notice] 1#1: worker process 25 exited with code 0
+2022/08/28 18:41:31 [notice] 1#1: exit
